@@ -1,0 +1,17 @@
+DeFiRiskAssessment/
+├── .env
+├── app.js
+├── package.json
+├── models/
+│   └── protocol.js
+├── public/
+│   ├── css/
+│   │   └── styles.css
+├── views/
+│   ├── index.ejs
+│   ├── add.ejs
+│   ├── edit.ejs
+│   ├── details.ejs
+│   └── assess.ejs
+└── routes/
+    └── index.js
